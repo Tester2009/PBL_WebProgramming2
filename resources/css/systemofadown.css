@@ -1,0 +1,18 @@
+/*
+Made with <3 by:
+Muhammad Aliff Muazzam bin Jaafar,
+Muhammad Fahim bin Shafie;
+*/
+
+/*body {
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+}*/
+.bg_container { width: 60%; margin-right: auto; margin-left: auto; padding-top: 10px; padding-bottom: 20px; }
+ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; /*background-color: red;*/ }
+li { float: left; width: 20%; text-align: center; font-weight: bold; font-size:28px; }
+a{ color: white; text-decoration: none; }
+a.active { color: red; }
+img { user-drag: none;  user-select: none; -moz-user-select: none; -webkit-user-drag: none; -webkit-user-select: none; -ms-user-select: none; }
+p { color: white; }
