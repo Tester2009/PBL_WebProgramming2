@@ -3,7 +3,7 @@ ProblemBasedLearning 2 Web Programming SEM4 NWS2 2016 GMI
 
 
 ## Synopsis
-This is our PBL assignment. This PBL is continued from PBL 1 Web Programming SEM4 NWS2 2016 GMI. Default credential for login Management Portal is: {admin:demo} {
+This is our PBL assignment. This PBL is continued from PBL 1 Web Programming SEM4 NWS2 2016 GMI. Default credential for login Management Portal is: {admin:demo}
 
 
 ## Screenshot
